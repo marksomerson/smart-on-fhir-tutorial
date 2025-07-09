@@ -1,0 +1,38 @@
+GitHub Pages will automatically deploy your changes
+
+Your app will be available at:
+    https://marksomerson.github.io/smart-on-fhir-tutorial/example-smart-app/
+
+Health check at: 
+    https://marksomerson.github.io/smart-on-fhir-tutorial/example-smart-app/health
+
+
+
+
+SmartOnFhirOnc
+    Application Type 
+          patient 
+    Application ID
+        c3c519cd-9b57-40bf-9fbf-f3f060c3ab9c
+    Client ID
+        58a224a0-8555-4ef6-8384-244c1c68501f
+
+
+My amazing SMART app
+    Application Type
+        provider
+    FHIR® Version
+        dstu2
+    Application ID
+         05089a35-ffc8-45d1-a87d-704108a61f0e
+    Client ID
+        e2964849-952e-41a8-882e-04c4ca0efc1b
+
+
+
+App Name: 
+    My amazing SMART app
+SMART Launch URI:
+	https://marksomerson.github.io/smart-on-fhir-tutorial/example-smart-app/launch.html
+Redirect URI:
+	https://marksomerson.github.io/smart-on-fhir-tutorial/example-smart-app/
